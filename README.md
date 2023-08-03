@@ -1,16 +1,11 @@
-# SanbercodeQA-Kelompok8
-Final Project Sanbercode QA Batch 47 Kelompok 8
+#Tugas Final Project Batch 45 Sanbercode QA
+Buatlah rangkaian test plan dan test execution dari website https://magento.softwaretestingboard.com/
 
-1. Website : https://magento.softwaretestingboard.com/
-2. Test Plan : Spreadsheet
-3. Software testing : Cypress
-4. feature :
-	
-  a. Sign up & Update My Account --> Juan daniel
-  b. Log in & Log out --> Yosephine herlina 
-  c. Select Product(s) and Add to cart --> July
-  d. Shopping Cart Page (including update and delete) --> July
-  e. Proceed to Checkout --> Choirudin Malik
+Anggota Team 8
 
-6. Create Repository -->
-7. Live Demo -->
+Juan Daniel
+Yosephine Herlina
+Choirudin Malik
+July
+
+Link Test Case Document: https://docs.google.com/spreadsheets/d/1dPukw2rmJ9CPCi3wAcWstbmFvkmYjdXgVuYH4r3Q-us/edit?usp=sharing
